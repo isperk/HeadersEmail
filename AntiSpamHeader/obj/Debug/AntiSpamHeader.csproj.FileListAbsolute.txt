@@ -1,0 +1,6 @@
+D:\Projects\Poc's\Net\AntiSpamHeader\AntiSpamHeader\bin\Debug\AntiSpamHeader.exe.config
+D:\Projects\Poc's\Net\AntiSpamHeader\AntiSpamHeader\bin\Debug\AntiSpamHeader.exe
+D:\Projects\Poc's\Net\AntiSpamHeader\AntiSpamHeader\bin\Debug\AntiSpamHeader.pdb
+D:\Projects\Poc's\Net\AntiSpamHeader\AntiSpamHeader\obj\Debug\AntiSpamHeader.csprojAssemblyReference.cache
+D:\Projects\Poc's\Net\AntiSpamHeader\AntiSpamHeader\obj\Debug\AntiSpamHeader.exe
+D:\Projects\Poc's\Net\AntiSpamHeader\AntiSpamHeader\obj\Debug\AntiSpamHeader.pdb

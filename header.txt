@@ -1,0 +1,113 @@
+Received: from MN2PR12MB2877.namprd12.prod.outlook.com (2603:10b6:a03:1e0::39)
+ by BY5PR12MB4292.namprd12.prod.outlook.com with HTTPS via
+ BY5PR03CA0029.NAMPRD03.PROD.OUTLOOK.COM; Wed, 2 Oct 2019 22:20:58 +0000
+Received: from CY4PR12CA0035.namprd12.prod.outlook.com (2603:10b6:903:129::21)
+ by MN2PR12MB2877.namprd12.prod.outlook.com (2603:10b6:208:ae::32) with
+ Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.2305.17; Wed, 2 Oct
+ 2019 22:20:55 +0000
+Received: from DM6NAM12FT055.eop-nam12.prod.protection.outlook.com
+ (2a01:111:f400:fe59::209) by CY4PR12CA0035.outlook.office365.com
+ (2603:10b6:903:129::21) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.2305.17 via Frontend
+ Transport; Wed, 2 Oct 2019 22:20:54 +0000
+Authentication-Results: spf=softfail (sender IP is 209.85.222.65)
+ smtp.mailfrom=gmail.com; 11games.onmicrosoft.com; dkim=pass (signature was
+ verified) header.d=gmail.com;11games.onmicrosoft.com; dmarc=pass action=none
+ header.from=gmail.com;compauth=pass reason=100
+Received-SPF: Pass (protection.outlook.com: domain of gmail.com designates
+ 209.85.222.65 as permitted sender) receiver=protection.outlook.com;
+ client-ip=209.85.222.65; helo=mail-ua1-f65.google.com;
+Received: from mail-ua1-f65.google.com (209.85.222.65) by
+ DM6NAM12FT055.mail.protection.outlook.com (10.13.179.38) with Microsoft SMTP
+ Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id
+ 15.20.2327.20 via Frontend Transport; Wed, 2 Oct 2019 22:20:54 +0000
+Received: by mail-ua1-f65.google.com with SMTP id j5so247251uak.12;
+        Wed, 02 Oct 2019 15:20:54 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:from:date:message-id:subject:to;
+        bh=7/oFixA9Q85+2f9DAEscxcBbeEWCWQ1YmAujDHt+Xkk=;
+        b=TM38f+TGvwHnA73K9sKSlkSD3tIczPYIOFUDDz/3iKcnXEwPqXWzsQbKmFIGYQ8CR8
+         lLN5tatFBPtXoUh2sgTqchvki5htzQpMQmQ2IKOFQ4YprjMkshIGhO719iQqc4eeHv8X
+         tAxChys8hINsk/cO/pv+EZk4hKjgKM5AyX9E7CuXJoUadWZqozHodniNM43MPUvntZER
+         3gRTTnjyhEVLa70+AGxnP9UqHKZc8Oivb18tR3W4SaufZXsOzVGu3/pgYSRlwxDNN/TJ
+         ujsTDm/IOTtvjJoz1zYh2Fhfay4WinLufgPW1oX6YCHirVvYXObbTPEw2xoMo90vFJju
+         5G+Q==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to;
+        bh=7/oFixA9Q85+2f9DAEscxcBbeEWCWQ1YmAujDHt+Xkk=;
+        b=emm/iCZ3OV2fYAIO49K24Fz768iiEoyhy3bkgzpPp4TBioW/a6YCPRh2Vie+mFp2Ox
+         0JnRYWBfBerGMZmYaa3KVRvEZeCdGDK00/HyhCW2/MF+0YEfzI8VaPiA2slQmRBUsUHH
+         kGZqKTmuT5gNc9xlGwQ15CeXxrP8gSQzi6MrrNayfFTBrJUkwoD6xE70ErKhIf+AJzvH
+         3liIsG3zNjXYtomSOJovz1KRUKuKtOGQZSVnoBHwSBIdQVkmWMyLA7PhWxhNBE3TqFG5
+         LHSy65e6lozbWRo3PW6R5Mv6jJMi1YHQQYCgrhbzENWolo8nNUu19zIrokvKS6ku6WFM
+         ionA==
+X-Gm-Message-State: APjAAAUvyofUbUKNv3sXVUvXbbJ8QxEqRa2TxBya8u7qv1twbL6ueQwV
+	6hfi0zHmnFPXN7w5BteovYr0P8nWkCDuohBxnFSQsSAs
+X-Google-Smtp-Source: APXvYqz6lsMETiScoiiMnct4bbbyDhNSIBMaq0EMjU6O+MawNjmkasA+06LeareKTJV1bwdqELsxyxMPl9hYATKcse0=
+X-Received: by 2002:ab0:5b1a:: with SMTP id u26mr2973068uae.125.1570054853317;
+ Wed, 02 Oct 2019 15:20:53 -0700 (PDT)
+MIME-Version: 1.0
+From: Visa Card <visa.information.bsas@gmail.com>
+Date: Wed, 2 Oct 2019 19:20:42 -0300
+Message-ID: <CAJ_WdeM4pORh_5B=8Lzv23_GsFZZ-se2xT2UKhOU0bPzS-GdJg@mail.gmail.com>
+Subject: Visa - 50% OFF!!!
+To: vgonzalez@11games.onmicrosoft.com, tcoiro@11games.onmicrosoft.com, 
+	ccaracciolo@11games.onmicrosoft.com, jsperk@11games.onmicrosoft.com
+Content-Type: multipart/alternative; boundary="000000000000cf63780593f4e18e"
+Return-Path: visa.information.bsas@gmail.com
+X-MS-Exchange-Organization-ExpirationStartTime: 02 Oct 2019 22:20:54.5499
+ (UTC)
+X-MS-Exchange-Organization-ExpirationStartTimeReason: OriginalSubmit
+X-MS-Exchange-Organization-ExpirationInterval: 1:00:00:00.0000000
+X-MS-Exchange-Organization-ExpirationIntervalReason: OriginalSubmit
+X-MS-Exchange-Organization-Network-Message-Id:
+ d96a758d-1af5-483d-d02a-08d74786ca8a
+X-EOPAttributedMessage: 0
+X-EOPTenantAttributedMessage: 16cb4b9e-7bd6-4590-8442-bf1897673765:0
+X-MS-Exchange-Organization-MessageDirectionality: Incoming
+X-Forefront-Antispam-Report:
+ CIP:209.85.222.65;IPV:NLI;CTRY:US;EFV:NLI;SFV:SFE;SFS:;DIR:INB;SFP:;SCL:-1;SRVR:MN2PR12MB2877;H:mail-ua1-f65.google.com;FPR:;SPF:None;LANG:en;
+X-MS-Exchange-Organization-AuthSource:
+ DM6NAM12FT055.eop-nam12.prod.protection.outlook.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-PublicTrafficType: Email
+X-MS-Office365-Filtering-Correlation-Id: d96a758d-1af5-483d-d02a-08d74786ca8a
+X-MS-TrafficTypeDiagnostic: MN2PR12MB2877:
+X-MS-Exchange-PUrlCount: 2
+X-MS-Oob-TLC-OOBClassifiers: OLM:5236;
+X-MS-Exchange-Organization-SCL: 4
+X-Microsoft-Antispam: BCL:0;
+X-MS-Exchange-CrossTenant-OriginalArrivalTime: 02 Oct 2019 22:20:54.4378
+ (UTC)
+X-MS-Exchange-CrossTenant-Network-Message-Id: d96a758d-1af5-483d-d02a-08d74786ca8a
+X-MS-Exchange-CrossTenant-Id: 16cb4b9e-7bd6-4590-8442-bf1897673765
+X-MS-Exchange-CrossTenant-FromEntityHeader: Internet
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: MN2PR12MB2877
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:03.7776485
+X-MS-Exchange-Processed-By-BccFoldering: 15.20.2305.000
+X-Microsoft-Antispam-Mailbox-Delivery:
+	wl:1;pcwl:1;ucf:0;jmr:0;ex:0;auth:0;dest:I;ENG:(750127)(520011016)(520004050)(702028)(944506383)(944626516);
+X-Microsoft-Antispam-Message-Info:
+	=?us-ascii?Q?8dOBR8l8Z9FzqsMO5VSwH/DQVj+h8y/FKZhcUqixv9gGI2zaWwT5nol+p1/7?=
+ =?us-ascii?Q?Lcbf/KxDPv9rSKJDys6rEor8MINJ3NEK+5OlqcqGT7h5OSIrBniZg/S88BKd?=
+ =?us-ascii?Q?JCIG+bbcKq9toYDiDADXTt/FOVMvzJV7KxfRUdDKiRlqL0o00V45RLMF2/t2?=
+ =?us-ascii?Q?XLkjYn2tRC36ym0ZPvx9PdwJWPatrPtF0UEtFwRrSE/i7oyeJIjFKfA4Css2?=
+ =?us-ascii?Q?uMjXH6ZVnCrdZLKMr8SI0NJRXhKmvsC1P6XiBhAlkgJw11ceS4psaT8j6LT1?=
+ =?us-ascii?Q?omgT3T/EVqECjvZZd9YOU9EMnwfR6I9DibhHCkyMUy71KBk7JPD00DUsntcO?=
+ =?us-ascii?Q?0rNrmHt1cU8dzmdONwiG8Cfomoq83E72OTqUSMeNNq55fS2SGhlOnrvHWGiK?=
+ =?us-ascii?Q?DhUiGqPQ79tR6Z6xEieWlPXIui3WFx5Y3/fBVYnyRjijjXqCQQCGVZTgASYJ?=
+ =?us-ascii?Q?OxSwF6QCz/Yj9skYQadQlXAJh/exWsZ7xXq2Qs2Y3zqnMZV/iEFeaUxGU7Wy?=
+ =?us-ascii?Q?eubV/9Cvsuv7zJ7S2+QbDV7/1TjWsZGhTHAefY+wyUkUDveTMFpAF3EU03b0?=
+ =?us-ascii?Q?mWvjx2oY8r85VCspd7Y/UrADafnZKLKPcChkqSS/8q6IPyMzONCS0icMOLth?=
+ =?us-ascii?Q?UcdU5Wed3VKRgtcoo0+usSsZaRjF+RLgwuJRLj9Sbqaqm0Vh+3TFcPvqPszU?=
+ =?us-ascii?Q?Tlfk07tQNPgBzvdTVBck79gu4ve/M1KUCvCNEt5isSVN3KZKN9do18GkoEBF?=
+ =?us-ascii?Q?I711uGU2V4drLSp6HH1wBvLoAr83e02i5zJ/UkAI7MMikPHVBNUUJC12NqUc?=
+ =?us-ascii?Q?V1b5vlvCCtDuKZGv7knxbd+O8xvF1vZOhJPqBXVTh+YcFRbIDve6U/NQ6nnG?=
+ =?us-ascii?Q?Cum75Lz2c/b2st9zBFuDWEmabDPt000GUpbtY0+mbxGt/b2OOtmv1hcfRGcr?=
+ =?us-ascii?Q?tnfGz/NU2qV6ONSGeWfeMNsDiJGMDKMzUqN0YIymTu0QzstmuhTswUH4NO3Q?=
+ =?us-ascii?Q?tNeRGO7fkQdXpEcXMS9vatYBK/Zbh9oLUSLuHhmQxEiypLdsekdH9enkibGy?=
+ =?us-ascii?Q?sriSsmTxjDH/i7solFN7MKwcaWHazHbsV/+qLUm0x2vsipmdaK3bu9gFe2dB?=
+ =?us-ascii?Q?co1YkBv29Enc?=
